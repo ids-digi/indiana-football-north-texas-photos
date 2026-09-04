@@ -5,23 +5,23 @@ const data = {
     // title will appear on the tab in the browser
     "title": "Pridefest Photos",
     // make sure to update the pub date before finishing the project
-    "pub_date": "July 31, 2022",
+    "pub_date": "September 6, 2026",
     "bylines": {
         // fill in photographer info
         "Photos by": [
             {
-                "name": "Ethan Moore",
-                "email": "ethmoore@iu.edu",
+                "name": "Kennedy Hannah",
+                "email": "kenehann@iu.edu",
             },
             {
-                "name": "Ashlyn Johnson",
-                "email": "catchar@iu.edu",
+                "name": "Katie Newett",
+                "email": "knewett@iu.edu",
             },
         ],
         // fill in digital designer info
         "Design and development by": {
-            "name": "Ethan Moore",
-            "email": "ethmoore@iu.edu",
+            "name": "Lillie Donato",
+            "email": "mdonato@iu.edu"
         }
     }
 }
