@@ -1,9 +1,9 @@
 const data = {
-    "url": "your-url-here",
+    "url": "iu-football-north-texas-photos",
     // slug will appear in the nav bar
-    "slug": "Pridefest Returns",
+    "slug": "Indiana football returns, routs North Texas",
     // title will appear on the tab in the browser
-    "title": "Pridefest Photos",
+    "title": "Indiana football returns, routs North Texas",
     // make sure to update the pub date before finishing the project
     "pub_date": "September 6, 2026",
     "bylines": {
