@@ -168,6 +168,10 @@ footer .copyright {
 
 }
 
+.step:nth-child(odd) {
+  margin-left: auto;
+}
+
 @media screen and (max-width: 550px) {
   .step {
     margin-left: var(--sm);
